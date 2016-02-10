@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Built-By: gjena
+Build-Jdk: 1.7.0_79
+Implementation-Title: MGM DMP WebApp - Web
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: com.mgm.dmp
+Implementation-Vendor: Sapient
+Build-Number: 
+Build-Tag: 
+Build-Timestamp: 
+Created-By: Maven Integration for Eclipse
+Subversion-Revision: 
+Subversion-URL: 
+

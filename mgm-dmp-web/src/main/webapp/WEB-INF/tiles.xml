@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 2.0//EN"
+       "http://tiles.apache.org/dtds/tiles-config_2_0.dtd">
+<tiles-definitions>
+	
+	<definition name="hello" template="/WEB-INF/jsp/hello.jsp" />
+	<definition name="tealeaf" template="/WEB-INF/jsp/tealeaf/tealeafTarget.jsp" />
+
+</tiles-definitions>

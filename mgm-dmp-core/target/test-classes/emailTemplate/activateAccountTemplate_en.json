@@ -1,0 +1,6 @@
+{
+    "from" : "dmp@mgmresorts.com",
+    "subject" : "Account Activation",
+    "replyTo" : "comments@mlife.com",
+    "body" : "<html><body><div><h4>Account Activation</h4><p>{customerName},</p><p style=\"text-indent: 20px;\"> Thank you for visiting mlife.com. We have provided you with your verification code for account activation.<br/> Verification Code :{VerificatioCode} Or, click the link below to activate your mlife.com account:activate your mlife.com account <a href=\"{contextRoot}/activateAccount/validateLink/{linkCode}\">Activate account</a> </p><p style=\"font-size: 9px\">Please do not reply to this email. If you received this email in error or would like to request assistance, please click Please do not reply to this email. If you received this email in error or would like to <a href=\"mailto:{replyTo}\"> Here </a> to send a message to Mlife Member Services or call 866.761.7111</p></div></body></html>"
+}

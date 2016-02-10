@@ -1,0 +1,6 @@
+{
+    "from": "dmp@mgmresorts.com",
+    "subject": "Preferences",
+    "replyTo": "comments@mlife.com",
+    "body": "<html><body><div><h4>Select your Preferences</h4><p>hi {customerName},</p> <p style=\"text-indent: 20px;\"> Please choose your preferences by click the link <a href=\"{contextRoot}/preferences/validateLink?verificationCode={linkCode}\">Preferences</a> Thank you or visiting mlife.com. We appreciate the  opportunity to assist you. If you did not request to change the password on your mlife. com account or believe that an unauthorized person has accessed your account, please contact M life Member Services at 866.761.7111<br/></p><p style=\"font-size: 9px\"> Please do not reply to this email. If you received this email in error or would like to  request assistance, please click <a href=\"mailto:{replyTo}\"> Here </a> to send a message  to Mlife Member Services or call 866.761.7111 </p></div></body></html>"
+}
