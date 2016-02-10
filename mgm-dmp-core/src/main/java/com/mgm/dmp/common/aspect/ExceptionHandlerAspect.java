@@ -43,7 +43,7 @@ public class ExceptionHandlerAspect {
 				joinPoint.getTarget().getClass().getPackage().getName().length() + 1,
 				joinPoint.getTarget().getClass().getName().length());
 		final String fullMethod = className + "." + methodName;
-		LOG.debug("Entering Class: {} | Method: {}", className, methodName);
+		LOG.debug("Entering Classddd: {} | Method: {}", className, methodName);
 		final long start = System.currentTimeMillis();
 		Throwable ex = null;
 		try{
